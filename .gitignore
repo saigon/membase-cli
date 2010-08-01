@@ -1,5 +1,6 @@
 *~
 *.bak
 *.pyc
+*.stackdump
 *.tar.gz
 tmp
